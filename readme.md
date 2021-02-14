@@ -1,2 +1,2 @@
-Python Exercise from http://www.practicepython.org/exercises/ 
+Python Exercises from http://www.practicepython.org/exercises/ 
 
